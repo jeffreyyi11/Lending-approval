@@ -1,0 +1,10 @@
+---
+title: Better way to lend
+output: html_document
+---
+
+  There are many factors that come into consideration when people apply for loans. These factors determine whether a bank will approve a loan to their applicants. In modern times there are more outlets to get a loan instead of a bank. These companies rely on a person's data and information in order to determine whether. It is harder to make that decision when there is applicant that is on the edge of approval or rejection. The problem I want to solve is that are there certain factors that are more critical than other when making a decision and if so how can we use the data to approve more applicants or reject more potential risky applicants. 
+  My client will be banks or peer to peer lenders that can use the data and insight in order to make better choices when deciding approval or rejection. They can then decide whether to take more risk and approve more loans quickly based on fewer but more critical factors saving time and reducing any failure of applicants paying loans back. 
+  The data I will be using is from Lending Club. They released data on their applicants except for sensitive info. They breakdown everything the applicant put for their background info and whether the applicant was approved or rejected. 
+  Given the data, I will be narrow it down to applications that are harder to make judgement and see what factors apply to most of the approval or rejection and whether the applicant was successful in repaying the load. 
+  In this project, I will provide a data table which has the most important factors. Also I will show a few graphs showing who got approved based on those factors. 
